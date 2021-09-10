@@ -1,0 +1,20 @@
+.home-container {
+    height: 90vh;
+}
+.header-title  {
+    color: #38680c;
+    margin-left: 1%;
+    margin: 20px;
+}
+.main-container{
+    padding: 30px;
+    margin: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #000000;
+}
+.article-para{
+   padding: 5px;
+   margin: 1%;
+}
